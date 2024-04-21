@@ -12,7 +12,7 @@ Proje'nin olduğu Google Play Store hesabı teknik bir sıkıntıdan dolayı ask
 
 Apk Dosyasını [Buraya Tıklayarak](https://drive.google.com/file/d/1TyVNkFlQimR4q0bqI2XDo7MYudS81BCG/view?usp=sharing) indiriniz,
 
-1. **APK Dosyasını İndirin:** APK dosyasını indirmek için bir kaynaktan (genellikle bir web sitesi veya e-posta eki) APK dosyasını alın.
+1. **APK Dosyasını İndirin:** APK dosyasını indirmek için yukarıda link bulunmaktadır
 
 2. **Bilinmeyen Kaynaklara İzin Verin:** Telefonunuzda, Ayarlar menüsünden "Güvenlik" veya "Uygulama" bölümüne gidin. Burada "Bilinmeyen Kaynaklara İzin Ver" veya benzeri bir seçenek bulunur. Bu seçeneği etkinleştirmeniz gerekebilir. Bu, cihazınıza Google Play Store dışından uygulama yüklemenize olanak tanır.
 
